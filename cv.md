@@ -1,4 +1,3 @@
-[rsschool-cv](https://alexandrovay.github.io/rsschool-cv/)
 # Alexander Alexandrov
 
 ## Contacts
