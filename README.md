@@ -1,2 +1,2 @@
-# rsschool-cv
-rsschool-2022Q2
+https://AlexandrovAY.github.io/rsschool-cv/cv
+https://AlexandrovAY.github.io/rsschool-cv/
