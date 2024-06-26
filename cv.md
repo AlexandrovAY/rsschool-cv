@@ -12,3 +12,24 @@
 ## Brief about me
 
 I want to change my profession to a front-end developer. I like to write code and see my result immediately. In my free time, I study various Internet resources on the topic of front-end development.
+
+## Skils
+
+* HTML
+* CSS/SASS/LESS
+* Javascript (Basic)
+* Git
+* Figma
+* Webpack
+
+## Code Example
+
+```
+for (let i = 0; i < 3; i++) {
+  alert(i);
+}
+```
+
+## Experience
+
+No experience in product development
