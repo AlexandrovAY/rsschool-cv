@@ -453,3 +453,12 @@ body {
     line-height: 60px;
     margin: 0;
 }
+
+.footer__wrapper {
+    display: flex;
+    justify-content: center;
+}
+
+.footer__link {
+    font-size: 0;
+}
