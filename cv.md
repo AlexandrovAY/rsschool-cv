@@ -1,13 +1,13 @@
-# Alexander Alexandrov
+# Aleksandr Aleksandrov
 
 ## Contacts
 
 * Location: Almetyevsk, Russia
 * Phone: +7 987 410 40 40
-* EMail: Alexandrovay147@gmail.com
+* Email: Alexandrovay147@gmail.com
 * GitHub: https://github.com/AlexandrovAY
 * Discord: https://discordapp.com/users/689503579592982570/
-* Telegram: https://t.me/Riterium
+* Telegram: https://t.me/Aleksander_Aleksandrov
 
 ## Brief about me
 
